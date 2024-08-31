@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a Python data scientist with extensive experience in Python, including expertise in Pandas for data manipulation and Plotly with Dash for creating interactive visualizations (aswell as matplotlib and seaborn ofcourse). Recently, I decided to learn C++ to enhance my understanding of systems programming and develop high-performance applications. This new skill complements my existing knowledge and broadens my capabilities in both data science and performance-critical software development.
+I am a Python data scientist with extensive experience in Python, including expertise in Pandas for data manipulation and Plotly with Dash for creating interactive visualizations (aswell as matplotlib and seaborn). Recently, I decided to learn C++ to enhance my understanding of systems programming and develop high-performance applications. This new skill complements my existing knowledge and broadens my capabilities in both data science and performance-critical software development.
 
 ### Here's some stuff I've done:
 
