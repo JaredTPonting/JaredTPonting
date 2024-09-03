@@ -8,6 +8,7 @@ Link | Tools Used | Description
 [MKMD](https://github.com/JaredTPonting/mkmd) | Python (os, ast, argparse)  | Python Markdown Documentation Generator is a utility script designed to automate the process of creating structured Markdown documentation from Python code files
 [E2EMLPipeline](https://github.com/JaredTPonting/E2EMLPipeline) | Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Flask, Docker, Dash, Heroku | Machine Learning Project predicting survival based on demographic and socioeconomic data. The workflow includes data preprocessing, model training with Random Forest, and deployement of a proof-of-concept API.
 [Movie Recommender](https://github.com/JaredTPonting/MovieRecommender) | Movies Dataset, Pandas, NumPy, scikit-learn, Plotly, Dash | The Movie Recommendation System provides personalized movie suggestions using content-based, collaborative, and hybrid models. Built with the Movies Dataset and visualized through an interactive Plotly Dash dashboard, this project showcases skills in machine learning and web development.
+[Grade Management](https://github.com/JaredTPonting/Grade-Management) | c++, Standard Library, Vectors, File handling, Classes and OOP | This is a C++ project developed to practice and enhance skills in C++ programming. The system allows for managing student information, including adding new students, updating their details, and displaying their grades. This project focuses on using core C++ concepts such as classes, file handling, and the Standard Library.
 
 
 <!--
