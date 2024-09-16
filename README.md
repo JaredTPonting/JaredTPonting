@@ -9,6 +9,7 @@ Link | Tools Used | Description
 [E2EMLPipeline](https://github.com/JaredTPonting/E2EMLPipeline) | Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Flask, Docker, Dash, Heroku | Machine Learning Project predicting survival based on demographic and socioeconomic data. The workflow includes data preprocessing, model training with Random Forest, and deployement of a proof-of-concept API.
 [Movie Recommender](https://github.com/JaredTPonting/MovieRecommender) | Movies Dataset, Pandas, NumPy, scikit-learn, Plotly, Dash | The Movie Recommendation System provides personalized movie suggestions using content-based, collaborative, and hybrid models. Built with the Movies Dataset and visualized through an interactive Plotly Dash dashboard, this project showcases skills in machine learning and web development.
 [Grade Management](https://github.com/JaredTPonting/Grade-Management) | c++, Standard Library, Vectors, File handling, Classes and OOP | This is a C++ project developed to practice and enhance skills in C++ programming. The system allows for managing student information, including adding new students, updating their details, and displaying their grades. This project focuses on using core C++ concepts such as classes, file handling, and the Standard Library.
+[Chess v1](https://github.com/JaredTPonting/Chess) | Python and Pygame! | Basic chess game with pygame. Made it not because it was easy, but because I thought it would be easy T_T
 
 
 <!--
